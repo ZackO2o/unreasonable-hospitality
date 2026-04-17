@@ -66,6 +66,19 @@
 - [ ] Sustainable pace — exhausted teams can't deliver magic
 - [ ] Celebrate hospitality wins, not just metrics wins
 
+## Closed-Loop Feedback (Sustaining Hospitality)
+
+- [ ] Every feature/interaction has a defined "experience standard" (what should the user feel?)
+- [ ] Feedback channels exist and are actively monitored (<48h response)
+- [ ] Feedback is bilateral: we ask users AND we share back what we learned
+- [ ] Insights are assigned to owners with deadlines (not just logged)
+- [ ] Weekly/sprint retrospective includes hospitality quality, not just velocity
+- [ ] Knowledge is captured: what we learned → written down → accessible to all
+- [ ] Processes are simplified each cycle, not accumulated
+- [ ] Metrics tracked: completion rate, feedback timeliness, issue resolution, rework rate
+- [ ] "Pseudo-loop" check: is anyone actually reading and acting on the feedback?
+- [ ] New team members are onboarded into the hospitality standard, not just the codebase
+
 ## The Ultimate Test
 
 Ask after every interaction/release/feature:

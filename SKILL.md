@@ -1,6 +1,6 @@
 ---
 name: unreasonable-hospitality
-description: "Apply the principles from Will Guidara's 'Unreasonable Hospitality' to AI product design, development, and interaction. Transforms any product from merely functional to emotionally memorable. Use when: designing user experiences, reviewing product quality, writing copy/microcopy, building AI assistants, creating onboarding flows, handling error states, giving feedback, or when asked to make something 'feel better' or 'more human'. Core framework: Technical Excellence (95%) × Hospitality Layer (5%) = World-class. Covers: the 95/5 rule, one-size-fits-one personalization, read-and-react anticipation, earned informality, micro-moments of delight, and human connection over transaction."
+description: "Apply Will Guidara's 'Unreasonable Hospitality' + PDCA closed-loop feedback to AI product design, development, and interaction. Transforms products from functional to emotionally memorable AND sustainably excellent. Use when: designing user experiences, reviewing product quality, writing copy/microcopy, building AI assistants, creating onboarding flows, handling error states, giving feedback, building feedback loops, improving team processes, or making something 'feel better' or 'more human'. Core: Technical Excellence (95%) × Hospitality Layer (5%) × Feedback Loop = World-class that lasts. Covers: 95/5 rule, one-size-fits-one, read-and-react, earned informality, PDCA hospitality loop, closed-loop metrics, accountability without bureaucracy."
 ---
 
 # Unreasonable Hospitality for AI & Product Design
@@ -13,13 +13,14 @@ Transform products from functional to unforgettable by applying the principles t
 ## Core Equation
 
 ```
-Unreasonable Hospitality = Technical Excellence × Emotional Intelligence × Intentional Generosity
+Unreasonable Hospitality = Technical Excellence × Emotional Intelligence × Intentional Generosity × Feedback Loop
 ```
 
 Miss any one → the magic breaks:
 - No technical excellence → being nice but useless
 - No emotional intelligence → technically perfect but cold
 - No intentional generosity → good but forgettable
+- No feedback loop → great once, inconsistent forever
 
 ## The 7 Laws (Memorize These)
 
@@ -104,6 +105,56 @@ Score 85+ → World-class hospitality
 - Frame criticism as investment: "I believe you can do better"
 - Be specific and immediate
 - Suggest, don't command — make it feel like a gift
+
+### The Hospitality Closed Loop (PDCA)
+
+Hospitality isn't a one-time act — it's a system. Without a feedback loop, even the best intentions decay into inconsistency. Apply the PDCA cycle to sustain and improve hospitality:
+
+**Plan → Do → Check → Act → Repeat**
+
+```
+┌─────────────────────────────────────────────────────────┐
+│  PLAN: Define the experience standard                   │
+│  • What should the user feel at each touchpoint?        │
+│  • Who owns each part of the experience?                │
+│  • What signals will we read? (SMART goals for UX)      │
+├─────────────────────────────────────────────────────────┤
+│  DO: Execute with standard + hospitality                │
+│  • Follow the 95% foundation rigorously                 │
+│  • Apply the 5% improvisational hospitality             │
+│  • Every team member knows their "ownership zone"       │
+├─────────────────────────────────────────────────────────┤
+│  CHECK: Feedback must flow — fast, honest, structured   │
+│  • Measure: task completion, user sentiment, delight    │
+│  • 48h rule: feedback within 48 hours or it's stale     │
+│  • Bilateral: team → user AND user → team               │
+│  • Quantify: not just "users liked it" but NPS, scores  │
+├─────────────────────────────────────────────────────────┤
+│  ACT: Improve based on what you learned                 │
+│  • Retrospective: what worked, what didn't, what's next │
+│  • Knowledge capture: write it down or it never happened│
+│  • Process refinement: simplify, don't accumulate       │
+│  • Promote insights to the Plan phase → loop restarts   │
+└─────────────────────────────────────────────────────────┘
+```
+
+**5 Metrics That Matter:**
+1. **Task Completion Rate** — Does the core function work? (Service baseline)
+2. **Feedback Timeliness** — How fast do we learn from users? (<48h = healthy)
+3. **Issue Resolution Rate** — Problems found → fixed → verified closed
+4. **Response Time** — How fast does the team/product react to signals?
+5. **Rework Rate** — How often do we redo things? (Lower = better system)
+
+**Closed-Loop Anti-Patterns:**
+
+| Anti-Pattern | Symptom | Fix |
+|-------------|---------|-----|
+| Pseudo-loop | Feedback collected but never acted on | Assign owner + deadline to every insight |
+| Filtered feedback | Only good news reaches decision-makers | Create safe channels for honest feedback |
+| Fragmented flow | Info scattered across tools/people | Single source of truth (one board/doc) |
+| All process, no soul | Perfect PDCA but zero emotional impact | PDCA is the skeleton; hospitality is the heart |
+
+**The key insight:** PDCA keeps the machine running. Hospitality gives the machine a soul. You need both.
 
 ## Anti-Patterns (What NOT to Do)
 

@@ -76,6 +76,21 @@
 - Technology should amplify human connection, never replace it
 - The goal: make people feel seen, heard, and valued
 
+### 13. The Closed Loop — Hospitality That Sustains Itself
+- One-time gestures fade. Systems persist.
+- Plan the experience → Execute → Measure feedback → Improve → Repeat
+- Every insight from a user must complete the loop: observed → captured → acted on → verified
+- Knowledge capture is non-negotiable: if you learned it but didn't write it down, you'll lose it
+- The PDCA cycle is the operational backbone; hospitality is the soul that rides on it
+- "A feedback loop done well means you never make the same mistake twice — and every success gets replicated"
+
+### 14. Accountability Without Bureaucracy
+- Every part of the experience needs an owner — but ownership ≠ paperwork
+- RACI light: who's Responsible, who's Consulted, who's Informed — that's it
+- Remove approval layers that slow down hospitality moments
+- Trust your team to act, then review together — don't pre-approve everything
+- The goal: every person can make a hospitality decision in real-time without asking permission
+
 ## The Hospitality Mindset Equation
 
 ```
